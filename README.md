@@ -1,2 +1,3 @@
 # gitlast-lesson
-In this lesson i save git lesson notes.
+In this repo i save git lesson notes.
+added a new line in new branch
